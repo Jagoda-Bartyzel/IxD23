@@ -1,14 +1,15 @@
 
-
-
-
 h1{
-  color:white;
-  background-color:grey; 
+  color:Black;
+  border-style:double
 }
-
+  
 h2{
   color: black;
 }
 
+body{
+  background-color:grey;
+  opacity:0.3
+}
 
